@@ -18,7 +18,7 @@ The package consists of two scripts, DPDfunctions.R and DPDextractor.R,
 the first one contains 12 global functions that directly or indirectly use 
 the methods of the DPDextractor library. DPDextractor contains 13 portable R6 classes that group 42 methods.These classes are interconnected by inheritance relationships in a star structure to a central class, DPDfile, from which they inherit some basic methods. Each class corresponds to a DPD database table, many of these classes contain only the most basic methods such as constructors and table column selectors. These classes could serve as a basis for possible future extensions of the library.
 
-The 14 global functions use other global functions or DPDextractor methods: AntibSalesReader(), AntibSalesStats(), DataFromZipfiles(). CFmergeFiles2(), FileMerge() and HVmerge(), datasetVTransmerge(), datasetVmerge(), addActivity(), AddMergedIngredNames(), AddMergedIngredNames2(), addExtraVetcols(), addCategory(), and kdataset().
+These 14 global functions use directly or undirectly  DPDextractor methods: AntibSalesReader(), AntibSalesStats(), DataFromZipfiles(). CFmergeFiles2(), FileMerge() and HVmerge(), datasetVTransmerge(), datasetVmerge(), addActivity(), AddMergedIngredNames(), AddMergedIngredNames2(), addExtraVetcols(), addCategory(), and kdataset().
 
 ![Package diagram]( D:/WIAAgrosante/Mapaq-Antibioticos/uml4.jpg)
 
@@ -38,8 +38,8 @@ CFmergeFiles2()
 ---
 ```
 
-The DataFromZipfiles()function downloads and unzips the database files.
-DPD, therefore, all global functions of the package require the prior execution of this function.CFmergeFiles2()is a pipeline that concatenates the execution of several functions, each of which performs the merging of the rows corresponding to the approved, marketed, dormant and cancelled drugs for all the DPD tables. 
+The DataFromZipfiles()function downloads and unzips the DPD files.
+Therefore, all global functions of the package require the prior execution of this function.CFmergeFiles2()is a pipeline that concatenates the execution of several functions, each of which performs the merging of the rows corresponding to the approved, marketed, dormant and cancelled drugs for all the DPD tables. 
 Two functions, datasetVTransmerge() and datasetVmerge(), are mainly used in this pipeline for merging and selective transposition of tables.
 The first function can perform two types of transposition, For the first type, all different values are transformed into columns or variables, and for the second type, the maximum number of values assigned to the same drug code is transformed into columns or variables.
 ```

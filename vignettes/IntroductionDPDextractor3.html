@@ -360,7 +360,7 @@ class corresponds to a DPD database table, many of these classes contain
 only the most basic methods such as constructors and table column
 selectors. These classes could serve as a basis for possible future
 extensions of the library.</p>
-<p>The 14 global functions use other global functions or DPDextractor
+<p>These 14 global functions use directly or undirectly DPDextractor
 methods: AntibSalesReader(), AntibSalesStats(), DataFromZipfiles().
 CFmergeFiles2(), FileMerge() and HVmerge(), datasetVTransmerge(),
 datasetVmerge(), addActivity(), AddMergedIngredNames(),
@@ -380,9 +380,9 @@ CFmergeFiles2() y FileMerge()</h2>
 DataFromZipfiles()
 CFmergeFiles2()
 ---</code></pre>
-<p>The DataFromZipfiles()function downloads and unzips the database
-files. DPD, therefore, all global functions of the package require the
-prior execution of this function.CFmergeFiles2()is a pipeline that
+<p>The DataFromZipfiles()function downloads and unzips the DPD files.
+Therefore, all global functions of the package require the prior
+execution of this function.CFmergeFiles2()is a pipeline that
 concatenates the execution of several functions, each of which performs
 the merging of the rows corresponding to the approved, marketed, dormant
 and cancelled drugs for all the DPD tables. Two functions,
