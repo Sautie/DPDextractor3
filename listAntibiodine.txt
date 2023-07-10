@@ -1,0 +1,436 @@
+AIwhocc;GroupeChimSC1
+tobramycin;Aminoglycosides (systemic)
+gentamicin;Aminoglycosides (systemic)
+amikacin;Aminoglycosides (systemic)
+neomycin;Aminoglycosides (systemic)
+paromomycin;Aminoglycosides (systemic)
+netilmicin;Aminoglycosides (systemic)
+framycetin;Aminoglycosides (systemic)
+apramycin;Aminoglycosides (systemic)
+dihydrostreptomycin;Aminoglycosides (systemic)
+hygromycin b;Aminoglycosides (systemic)
+Streptomycin;Aminoglycosides (systemic)
+Arbekacin;Aminoglycosides (systemic)
+Bekanamycin;Aminoglycosides (systemic)
+Dihydrostreptomycin;Aminoglycosides (systemic)
+Fortimicin;Aminoglycosides (systemic)
+Framycetin;Aminoglycosides (systemic)
+Gentamicin;Aminoglycosides (systemic)
+Hygromycin B;Aminoglycosides (systemic)
+Isepamicin;Aminoglycosides (systemic)
+Kanamycin;Aminoglycosides (systemic)
+Plazomicin;Aminoglycosides (systemic)
+Ribostamycin;Aminoglycosides (systemic)
+Robostamycin;Aminoglycosides (systemic)
+Sisomicin;Aminoglycosides (systemic)
+spectinomycin;Aminocyclitol
+novobiocin;Aminocoumarin
+clavulanic acid;Beta-lactamase inhibitor
+tazobactam;Beta-lactamase inhibitor
+Avibactam;Beta-lactamase inhibitor
+Durlobactam;Beta-lactamase inhibitor
+Enmetazobactam;Beta-lactamase inhibitor
+Nacubactam;Beta-lactamase inhibitor
+Relebactam;Beta-lactamase inhibitor
+Sulbactam;Beta-lactamase inhibitor
+Taniborbactam;Beta-lactamase inhibitor
+Vaborbactam;Beta-lactamase inhibitor
+Zidebactam;Beta-lactamase inhibitor
+chloramphenicol;Amphenicol
+florfenicol;Amphenicol
+Ridinilazole;Benzimidazoles
+Afabicin;Benzofuran naphthyridines
+doripenem;Carbapenems
+ertapenem;Carbapenems
+imipenem;Carbapenems
+meropenem;Carbapenems
+Benapenem;Carbapenems
+Biapenem;Carbapenems
+Faropenem;Carbapenems
+Panipenem;Carbapenems
+Tebipenem pivoxil;Carbapenems
+cefazolin;Cephalosporins (1|2)
+cefaclor;Cephalosporins (1|2)
+cefadroxil;Cephalosporins (1|2)
+cefprozil;Cephalosporins (1|2)
+cefuroxime;Cephalosporins (1|2)
+cefalexin;Cephalosporins (1|2)
+cefotetan;Cephalosporins (1|2)
+cefoxitin;Cephalosporins (1|2)
+cefalotin;Cephalosporins (1|2)
+cefamandole;Cephalosporins (1|2)
+cefapirin;Cephalosporins (1|2)
+cefapirin benzathine;Cephalosporins (1|2)
+Cefacetrile;Cephalosporins (1|2)
+Cefalonium;Cephalosporins (1|2)
+Cefaloridine;Cephalosporins (1|2)
+Cefazedone;Cephalosporins (1|2)
+Cefazolin;Cephalosporins (1|2)
+Cefradine (Cephradine);Cephalosporins (1|2)
+Cefroxadine;Cephalosporins (1|2)
+Ceftezole;Cephalosporins (1|2)
+Cephalexin (Cefalexin);Cephalosporins (1|2)
+Cephalothin (Cefalotin);Cephalosporins (1|2)
+Cephapirin (Cefapirin, Cefapyrin);Cephalosporins (1|2)
+Cefaclor;Cephalosporins (1|2)
+Cefatrizine;Cephalosporins (1|2)
+Cefbuperazone;Cephalosporins (1|2)
+Cefmetazole;Cephalosporins (1|2)
+Cefminox;Cephalosporins (1|2)
+Cefonicide;Cephalosporins (1|2)
+Ceforanide;Cephalosporins (1|2)
+Cefotetan;Cephalosporins (1|2)
+Cefotiam;Cephalosporins (1|2)
+Cefoxitin;Cephalosporins (1|2)
+Cefprozil;Cephalosporins (1|2)
+Cefsulodin;Cephalosporins (1|2)
+Cefuroxime;Cephalosporins (1|2)
+Lorcarbef (Loracarbef, Lorcacarbef);Cephalosporins (1|2)
+cefepime;Cephalosporins (3|4)
+cefixime;Cephalosporins (3|4)
+ceftizoxime;Cephalosporins (3|4)
+cefotaxime;Cephalosporins (3|4)
+ceftazidime;Cephalosporins (3|4)
+ceftriaxone;Cephalosporins (3|4)
+cefpodoxime;Cephalosporins (3|4)
+ceftobiprole;Cephalosporins (3|4)
+ceftolozane;Cephalosporins (3|4)
+ceftiofur;Cephalosporins (3|4)
+cefovecin;Cephalosporins (3|4)
+Cefcapene;Cephalosporins (3|4)
+Cefdinir;Cephalosporins (3|4)
+Cefditoren;Cephalosporins (3|4)
+Cefetamet;Cephalosporins (3|4)
+Cefmenoxime;Cephalosporins (3|4)
+Cefodizime;Cephalosporins (3|4)
+Cefoperazone;Cephalosporins (3|4)
+Cefoselis;Cephalosporins (3|4)
+Cefotaxime;Cephalosporins (3|4)
+Cefpiramide;Cephalosporins (3|4)
+Cefpodoxime;Cephalosporins (3|4)
+Ceftazidime;Cephalosporins (3|4)
+Ceftibuten;Cephalosporins (3|4)
+Ceftiofur;Cephalosporins (3|4)
+Ceftizoxime;Cephalosporins (3|4)
+Ceftriaxone;Cephalosporins (3|4)
+Flomoxef;Cephalosporins (3|4)
+Latamoxef;Cephalosporins (3|4)
+Cefepime;Cephalosporins (3|4)
+Cefiderocol;Cephalosporins (3|4)
+Cefozopran;Cephalosporins (3|4)
+Cefpirome;Cephalosporins (3|4)
+Cefquinome;Cephalosporins (3|4)
+Ceftaroline;Cephalosporins (3|4)
+Ceftobiprole;Cephalosporins (3|4)
+Ceftolozane;Cephalosporins (3|4)
+novobiocin;Coumarins
+Baquiloprim;Diaminopyrimidines
+Brodimoprim;Diaminopyrimidines
+Iclaprim;Diaminopyrimidines
+Ormetoprim;Diaminopyrimidines
+Tetroxoprim;Diaminopyrimidines
+Trimethoprim;Diaminopyrimidines
+ciprofloxacin;Fluoroquinolones
+gatifloxacin;Fluoroquinolones
+besifloxacin;Fluoroquinolones
+danofloxacin;Fluoroquinolones
+marbofloxacin;Fluoroquinolones
+enrofloxacin;Fluoroquinolones
+orbifloxacin;Fluoroquinolones
+pradofloxacin;Fluoroquinolones
+Alalevonadifloxacin;Fluoroquinolones
+Antofloxacin;Fluoroquinolones
+Aravofloxacin;Fluoroquinolones
+Balofloxacin;Fluoroquinolones
+Besifloxacin;Fluoroquinolones
+Clinafloxacin;Fluoroquinolones
+Delafloxacin;Fluoroquinolones
+Difloxacin;Fluoroquinolones
+Enoxacin;Fluoroquinolones
+Enrofloxacin;Fluoroquinolones
+Finafloxacin;Fluoroquinolones
+Gatifloxacin;Fluoroquinolones
+Gemifloxacin;Fluoroquinolones
+Grepafloxacin;Fluoroquinolones
+Ibafloxacin;Fluoroquinolones
+Levofloxacin;Fluoroquinolones
+Levonadifloxacin;Fluoroquinolones
+Lomefloxacin;Fluoroquinolones
+Marbofloxacin;Fluoroquinolones
+Moxifloxacin;Fluoroquinolones
+Norfloxacin;Fluoroquinolones
+Ofloxacin;Fluoroquinolones
+Pazufloxacin;Fluoroquinolones
+Pefloxacin;Fluoroquinolones
+Prulifloxacin;Fluoroquinolones
+Rufloxacin;Fluoroquinolones
+Sitafloxacin;Fluoroquinolones
+Sparfloxacin;Fluoroquinolones
+Temafloxacin;Fluoroquinolones
+Trovafloxacin (Alatrofloxacin);Fluoroquinolones
+Zabofloxacin;Fluoroquinolones
+Bicyclomycin (Bicozamycin);Diketopiperazines
+Ibezapolstat;DNA polymerase inhibitors
+Fosfomycin;Fosfomycins
+Fusidic acid;Fusidic acid
+Avoparcin;Glycopeptides
+Cefilavancin;Glycopeptides
+Dalbavancin;Glycopeptides
+Norvancomycin;Glycopeptides
+Oritavancin;Glycopeptides
+Teicoplanin;Glycopeptides
+Telavancin;Glycopeptides
+Vancomycin;Glycopeptides
+Tigecycline;Glycylcylines
+Nafithromycin;Ketolides
+Telithromycin;Ketolides
+Clindamycin;Lincosamides
+Lincomycin;Lincosamides
+Pirlimycin;Lincosamides
+Daptomycin;Lipopeptides
+Fidaxomicin;Macrocyclics
+Carbomycin;Macrolides
+Dirithromycin;Macrolides
+Erythromycin;Macrolides
+Flurithromycin;Macrolides
+Gamithromycin;Macrolides
+Josamycin;Macrolides
+Kitasamycin;Macrolides
+Midecamycin;Macrolides
+Miocamycin;Macrolides
+Mirosamycin;Macrolides
+Oleandomycin;Macrolides
+Rokitamycin;Macrolides
+Roxithromycin;Macrolides
+Solithromycin;Macrolides
+Spiramycin;Macrolides
+Terdecamycin;Macrolides
+Troleandomycin;Macrolides
+Tylosin;Macrolides
+azithromycin;Macrolides
+clarithromycin;Macrolides
+erythromycin;Macrolides
+fidaxomicin;Macrolides
+spiramycin;Macrolides
+tylvalosin;Macrolides
+tulathromycin;Macrolides
+tilmicosin;Macrolides
+tylosin;Macrolides
+gamithromycin;Macrolides
+tildipirosin;Macrolides
+Ancremonam;Monobactams
+Aztreonam;Monobactams
+Carumonam;Monobactams
+Furaltadone;Nitrofurans
+Furazolidone;Nitrofurans
+Nifurtoinol;Nitrofurans
+Nitrofural;Nitrofurans
+Nitrofurantoin;Nitrofurans
+Nitrofurazone;Nitrofurans
+Benznidazole;Nitroimidazoles
+Metronidazole;Nitroimidazoles
+Morinidazole;Nitroimidazoles
+Ornidazole;Nitroimidazoles
+Secnidazole;Nitroimidazoles
+Tinidazole;Nitroimidazoles
+carnidazole;Nitroimidazoles
+dimetridazole;Nitroimidazoles
+Avilamycin;Orthosomycins
+Contezolid;Oxazolidinones
+acefosamil;Contezolid 
+Delpazolid;Contezolid 
+Linezolid;Contezolid 
+Sutezolid;Contezolid 
+Tedizolid;Contezolid 
+Sulopenem etzadroxil;Penems
+amoxicillin;Penicillins
+ampicillin;Penicillins
+cloxacillin;Penicillins
+phenoxymethylpenicillin;Penicillins
+procaine benzylpenicillin;Penicillins
+benzathine benzylpenicillin+benzylpenicillin+procaine benzylpenicillin;Penicillins
+benzathine benzylpenicillin;Penicillins
+benzylpenicillin;Penicillins
+benzathine phenoxymethylpenicillin;Penicillins
+bacampicillin;Penicillins
+pivampicillin;Penicillins
+pivmecillinam;Penicillins
+tazobactam;Penicillins
+cloxacillin benzathine;Penicillins
+Aspoxicillin;Penicillins
+Azidocillin;Penicillins
+Azlocillin;Penicillins
+Bacampicillin;Penicillins
+Benzathine penicillin;Penicillins
+Carbenicillin;Penicillins
+Carindacillin;Penicillins
+Nafcillin;Penicillins
+Clomethocillin;Penicillins
+Dicloxacillin;Penicillins
+Epicillin;Penicillins
+Flucloxacillin;Penicillins
+Hetacillin;Penicillins
+Mecillinam;Penicillins
+Metampicillin;Penicillins
+Methicillin;Penicillins
+Mezlocillin;Penicillins
+Oxacillin;Penicillins
+Penamecillin;Penicillins
+Phenoxymethylpenicillin;Penicillins
+Pheneticillin;Penicillins
+Piperacillin;Penicillins
+Pivampicillin;Penicillins
+Pivmicillam;Penicillins
+Propicillin;Penicillins
+Sulbenicillin;Penicillins
+Sultamicillin;Penicillins
+Talampicillin;Penicillins
+Temocillin;Penicillins
+Ticarcillin;Penicillins
+Tobicillin;Penicillins
+Brilacidin;Peptidomimetics
+Murepavaidin;Peptidomimetics
+Chloramphenicol;Phenicols
+Florfenicol;Phenicols
+Thiamphenicol;Phenicols
+Fusidic acid;Fusidic acid
+Lefamulin;Pleuromutilins
+Retapamulin;Pleuromutilins
+Tiamulin;Pleuromutilins
+Valnemulin;Pleuromutilins
+Colistimethate;Polymyxins
+Colistin;Polymyxins
+Polymyxin E;Polymyxins
+Polymyxin B;Polymyxins
+Bacitracin;Polypeptides
+Enramycin;Polypeptides
+Enduracidin;Polypeptides
+Gramicidin;Polypeptides
+Mupirocin;Pseudomonic acids
+Mupirocin;Pseudomonic acids
+Nitroxoline;Quinolinols
+Cinoxacin;Quinolones
+Fleroxacin;Quinolones
+Flumequin;Quinolones
+Garenoxacin;Quinolones
+Miloxacin;Quinolones
+Nalidixic acid;Quinolones
+Nemonoxacin;Quinolones
+Oxolinic acid;Quinolones
+Ozenoxacin;Quinolones
+Pipemidic acid;Quinolones
+Piromidic acid;Quinolones
+Rosoxacin;Quinolones
+Rifabutin;Rifamycins
+Rifampin;Rifamycins
+Rifampicin;Rifamycins
+Rifamycin;Rifamycins
+Rifapentine;Rifamycins
+Rifaximin;Rifamycins
+Zoliflodacin;Spiropyrimidinetriones
+Dalfopristin;Streptogramins
+Pristinamycin;Streptogramins
+Quinupristin;Streptogramins
+Virginiamycin;Streptogramins
+Formosulfathiazole;Sulphonamides
+Ormosulfathiazole;Sulphonamides
+Phthalylsulfathiazole;Sulphonamides
+Sulfabenzamide;Sulphonamides
+Sulfacetamide;Sulphonamides
+Sulfachloropyridazine;Sulphonamides
+Sulfadiazine;Sulphonamides
+Sulfadimerazin;Sulphonamides
+Sulfadimethoxine;Sulphonamides
+Sulfadimidine;Sulphonamides
+Sulfadoxine;Sulphonamides
+Sulfafurazole;Sulphonamides
+Sulfaguanidine;Sulphonamides
+Sulfaisodimidine;Sulphonamides
+Sulfalene;Sulphonamides
+Sulfamazone;Sulphonamides
+Sulfamerazine;Sulphonamides
+Sulfamethazine;Sulphonamides
+Sulfamethizole;Sulphonamides
+Sulfamethoxazole;Sulphonamides
+Sulfamethoxine;Sulphonamides
+Sulfamethoxypyridazine;Sulphonamides
+Sulfametomidine;Sulphonamides
+Sulfametoxydiazine;Sulphonamides
+Sulfametrole;Sulphonamides
+Sulfamonomethoxine;Sulphonamides
+Sulfamoxole;Sulphonamides
+Sulfanilamide;Sulphonamides
+Sulfaperin;Sulphonamides
+Sulfaphenazole;Sulphonamides
+Sulfapyridine;Sulphonamides
+Sulfaquinoxaline;Sulphonamides
+Sulfasalazine;Sulphonamides
+Sulfathiazole;Sulphonamides
+Sulfathiourea;Sulphonamides
+Sulfisoxazole;Sulphonamides
+Sulfonamide;Sulphonamides
+succinylsulfathiazole;Sulphonamides
+sulfamerazine;Sulphonamides
+Chlortetracycline;Tetracyclines
+Clomocycline;Tetracyclines
+Demeclocycline;Tetracyclines
+Doxycycline;Tetracyclines
+Lymecycline;Tetracyclines
+Metacycline;Tetracyclines
+Minocycline;Tetracyclines
+Oxytetracycline;Tetracyclines
+Penimepicycline;Tetracyclines
+Rolitetracycline;Tetracyclines
+Tetracycline;Tetracyclines
+Eravacycline;Tetracyclines
+Omadacycline;Tetracyclines
+Sarecycline;Tetracyclines
+4-Aminosalicylic Acid (Para-aminosalicylic acid);Therapeutic agents for tuberculosis
+Bedaquiline;Therapeutic agents for tuberculosis
+Calcium aminosalicylate;Therapeutic agents for tuberculosis
+Capreomycin;Therapeutic agents for tuberculosis
+Clofazimine;Therapeutic agents for tuberculosis
+Cycloserine;Therapeutic agents for tuberculosis
+Delaminid;Therapeutic agents for tuberculosis
+Ethambutol;Therapeutic agents for tuberculosis
+Ethionamide;Therapeutic agents for tuberculosis
+Isoniazid;Therapeutic agents for tuberculosis
+Macozinone;Therapeutic agents for tuberculosis
+Morinamide;Therapeutic agents for tuberculosis
+Perchlozone;Therapeutic agents for tuberculosis
+Pretomanid;Therapeutic agents for tuberculosis
+Protionamide;Therapeutic agents for tuberculosis
+Pyrazinamide;Therapeutic agents for tuberculosis
+Telacebec;Therapeutic agents for tuberculosis
+Terizidone;Therapeutic agents for tuberculosis
+Tiocarlide;Therapeutic agents for tuberculosis
+Viomycin;Therapeutic agents for tuberculosis
+Gepotidacin; Triazaacenaphthylenes
+chloramphenicol;Amphenicol
+florfenicol;Amphenicol
+lasalocid;Ionophores
+semduramicin;Ionophores
+salinomycin;Ionophores
+monensin;Ionophores
+maduramicin;Ionophores
+narasin;Ionophores
+nicarbazine;Ionophores
+emetine;Other antiprotozoal
+pyrimethamine;Other antiprotozoal
+acetarsol;Other antiprotozoal
+pentamidine;Other antiprotozoal
+roxarsone;Other antiprotozoal
+amprolium;Other antiprotozoal
+toltrazuril;Other antiprotozoal
+diclazuril;Other antiprotozoal
+clopidol;Other antiprotozoal
+decoquinate;Other antiprotozoal
+sulfadimethoxine;Other antiprotozoal
+fumagillin;Other antiprotozoal
+halofuginone;Other antiprotozoal
+melarsomine;Other antiprotozoal
+ponazuril;Other antiprotozoal
+nicarbazine;Other antiprotozoal
+robenidine;Other antiprotozoal
+sulfaquinoxaline;Other antiprotozoal
+dinitolmide;Other antiprotozoal
